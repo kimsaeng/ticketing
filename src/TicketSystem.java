@@ -14,6 +14,7 @@ public class TicketSystem {
 		ArrayList<TicketInfo> ticketList = new ArrayList<TicketInfo>();
 
 		do {
+			ticketList = new TicketInfo();
 			do {
 
 				TicketTypeClass type = new TicketTypeClass();

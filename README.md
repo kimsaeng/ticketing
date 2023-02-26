@@ -11,20 +11,4 @@
 
 ## 업데이트
 1. ArrayList값을 출력할 때 중복 출력되는 문제를 해결하기 위해 ArrayList의 선언위치와 새로 생성하는 위치를 변경 (4/23)
-2. 파일 입출력 클래스 (진행중)
-
-
-## 예시(6월 10일 수정예정입니다)
-
-
-<!-- Link -->
-CLick [here](http://google.com)
-
-<!-- Image -->
-<img src = "http://t1.daumcdn.net/friends/prod/editor/dc8b3d02-a15a-4afa-a88b-989cf2a50476.jpg" width="400">
-
-<!-- Table -->
-|Header|Description|
-|:--:|:--:|
-|Cell1|Cell2|
-|Cell1|Cell2|
+2. 파일 입출력 클래스
